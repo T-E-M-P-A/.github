@@ -1,4 +1,4 @@
-# TEMPA (Tempat Eksplorasi Masa Depan dan Persiapan Arah) 🚀
+# TEMPA - Tempat Eksplorasi Masa Depan dan Persiapan Arah 🚀
 
 **TEMPA** is a web-based platform designed as a digital solution to bridge the gap for students in exploring majors and campuses more personally. This application addresses the "wrong major" phenomenon experienced by many students in Indonesia by providing a more realistic exploration experience before they make their study choices.
 
