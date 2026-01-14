@@ -13,7 +13,7 @@ Based on data, approximately 92% of high school students (SMA/equivalent) experi
 * **Program Material Access**: Students can access digital materials provided by mentors from various educational institutions.
 * **Program Evaluation**: Students can provide feedback and evaluate the quality of the simulation programs they have participated in.
 
-## 🏛️ Solutions for Higher Education
+## 🏛️ Solutions for University
 TEMPA also serves as an innovative digital promotion platform for higher education institutions:
 * **Interactive Promotion Model**: Conducting promotions through an experiential marketing approach that is more personal and effective than conventional methods.
 * **Data Analytics & Visualization**: Institutions gain access to applicant statistical data and deep analytics to understand the demographics and behavior of prospective students.
